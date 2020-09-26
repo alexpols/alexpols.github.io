@@ -114,7 +114,7 @@ hr {
 }
 
 #contact { background-color: #256286; padding-bottom: 50px; padding-top: 50px; }
-#contact h1,h4 { color: white; }
+#contact h1, #contact h4 { color: white; }
 
 #projects { background-color: #ffffff;}
 
